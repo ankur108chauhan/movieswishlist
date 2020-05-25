@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121212</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="secondary">#4A6572</color>
+    <color name="greenColor">#008577</color>
+    <color name="lightGrey">#D5D5D5</color>
+    <color name="darkGrey">#505050</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="lightBlue">#347FF3</color>
+    <color name="cardBackground">#202124</color>
+    <color name="appBackground">#202124</color>
+    <color name="hintTextColorAlternate">#505050</color>
+    <color name="hintTextColor">#008577</color>
+    <color name="textColor">#9d9d9f</color>
+    <color name="IMDBColorAlternate">#AC8617</color>
+    <color name="IMDBColor">#f6c700</color>
+    <color name="bg_row_background">#9b0000</color>
+    <color name="item_name">#535353</color>
+    <color name="description">#a9a9a9</color>
+    <color name="boxStrokeColor">#008577</color>
+    <color name="snackbarText">#121212</color>
+    <color name="snackbarBackground">#008577</color>
+</resources>
+
+

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MovieNotes</string>
+    <string name="dummy_title">Title</string>
+    <string name="dummy_genre">Romantic</string>
+    <string name="dummy_year">2011</string>
+    <string name="dummy_rating">7.4</string>
+    <string name="title_hint">Enter Title</string>
+    <string name="genre_hint">Enter Genre</string>
+    <string name="year_hint">Enter Year</string>
+    <string name="rating_hint">Enter Rating</string>
+    <string name="add">Add Button</string>
+    <string name="deleteNotes">Delete All Notes</string>
+    <string name="save">Save</string>
+    <string name="new_note">New Movie Note</string>
+    <string name="update_note">Edit Movie Note</string>
+    <string name="blank_values">Blank Values Are Not Allowed</string>
+    <string name="correct_rating">Please Enter Rating Between 0-10</string>
+    <string name="correct_year">Please Enter Correct Year</string>
+    <string name="note_saved">Note Saved</string>
+    <string name="note_deleted">Note Deleted</string>
+    <string name="note_updated">Note Updated</string>
+    <string name="note_discarded">Empty Note Discarded</string>
+    <string name="note_not_updated">Note Can Not Be Updated</string>
+    <string name="all_movies_deleted">All Movies Removed</string>
+    <string name="delete">DELETE</string>
+    <string name="undo_text">UNDO Successful</string>
+    <string name="search_bar">Search</string>
+</resources>
